@@ -1,3 +1,3 @@
-module github.com/dimasaditya09/go-module-first
+module github.com/dimasaditya09/go-say-hello
 
 go 1.13
